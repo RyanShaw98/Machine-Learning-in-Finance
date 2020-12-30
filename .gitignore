@@ -1,0 +1,7 @@
+.idea/
+documentation/
+notebooks/
+mysql_scripts/
+__pycache__/
+test_ML_in_Finance.py
+.git_OLD/
