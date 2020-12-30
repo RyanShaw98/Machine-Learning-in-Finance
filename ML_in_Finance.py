@@ -32,13 +32,13 @@ style.use('ggplot')
 pandas.set_option('display.max_columns', None)  # Show all data frame columns
 pandas.set_option('display.width', 150)  # Print data frame on a single line
 
-STOCK_NEWS_API = NewsApiClient(api_key='dbbb195f3d35453b9e6cfd72f5d51d7b')
-CRYPTO_NEWS_API = CryptoControlAPI("83911bda820a145e1421297d3b1e5abf")
+STOCK_NEWS_API = NewsApiClient(api_key='')
+CRYPTO_NEWS_API = CryptoControlAPI('')
 
-DB_HOST_NAME = "ce301.ceyjwmghheko.us-east-2.rds.amazonaws.com"
-DB_NAME = "financeportfolio"
-DB_USERNAME = "rs16212"
-DB_PASSWORD = "Tr7d_A6iQUW*ike$?08f"
+DB_HOST_NAME = ''
+DB_NAME = ''
+DB_USERNAME = ''
+DB_PASSWORD = ''
 DB = mysql.connector.connect(host=DB_HOST_NAME, user=DB_USERNAME, passwd=DB_PASSWORD, database=DB_NAME)
 DB_CURSOR = DB.cursor()
 
