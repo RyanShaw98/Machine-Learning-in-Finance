@@ -1,3 +1,5 @@
+# *AWS Server has been taken down*
+
 # Machine Learning in Finance
 The project provides new investors with an application that provides necessary information to help them make smart investment decisions without becoming overwhelmed by an abundance of advanced tools and features. 
 It displays numerous aspects of stock data using interactive charts and graphs; the main stock aspect being a forecast of a user selected stock's close prices two weeks into the future. 
@@ -196,7 +198,7 @@ This project is licensed under the GNU General Public License of 2007.
 For more information please read the [license](https://cseegit.essex.ac.uk/ce301_2019/ce301_shaw_r/-/blob/master/LICENSE.txt) documentation.
 
 ## Authors
-* Ryan Shaw (rs16212)
+* Ryan Shaw
 
 ## References
 * [1][LSTM Definition and diagram](https://adventuresinmachinelearning.com/keras-lstm-tutorial/)
